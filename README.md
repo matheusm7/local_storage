@@ -1,16 +1,12 @@
-# local_storage
+# Gerador de Números Aleatórios
 
-A new Flutter project.
+Um aplicativo simples em Flutter que gera números aleatórios e oferece opções para salvar e limpar a lista de números.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Geração de números aleatórios.
+- Salvar a lista de números usando Shared Preferences.
+- Limpar a lista de números gerados.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Creditos
+Flutter dicas - https://www.youtube.com/@flutterdicas
